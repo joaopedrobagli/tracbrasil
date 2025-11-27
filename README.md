@@ -6,7 +6,7 @@ Uma landing page moderna e profissional para uma empresa de máquinas agrícolas
 
 Landing page  tracBrasil, especializada em venda e locação de equipamentos agrícolas. O site apresenta uma linha completa de produtos incluindo tratores, colheitadeiras, plantadeiras e pulverizadores.
 
-🛠️ Tecnologias Utilizadas;
+🛠️ Tecnologias Utilizadas:
 
 React - Framework JavaScript
 
